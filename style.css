@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.content{
+	width:980px;
+	height:500px;
+	margin:0 auto;
+	}
+.top{
+	width:500px;
+	height:auto;
+	float:left;
+	}
+label{
+	display:block;
+	float:left;
+	margin-right:5px;
+	width:100px;
+	text-align:right;
+	}
+.footer{
+	width:480;
+	height:auto;
+	float:left;
+	padding:100px 0px;
+	}
